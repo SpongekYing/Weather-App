@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=iILFBGm_I9M
+I built this app to help people quickly check the weather forecast without any ads. O(∩_∩)O ha ha ~
+
+It's simply a weather forecast.
